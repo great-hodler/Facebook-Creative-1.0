@@ -16,7 +16,7 @@
 
 Start here — these are high-signal combinations based on angle-format-persona alignment:
 
-- [ ] **A1 × F8 × P2** | Get Fully Booked | Booking/Payment Notification | Burnt-Out Solo Pro
+- [x] **A1 × F8 × P2** | Get Fully Booked | Booking/Payment Notification | Burnt-Out Solo Pro
 - [ ] **A8 × F2 × P3** | Pain Point | Stop/Start Command | The Switcher
 - [ ] **A2 × F5 × P1** | Better Results | Split-Screen Comparison | Skill-Upgrader
 - [ ] **A6 × F4 × P5** | Social Proof | Process Checklist | Fresh Graduate
