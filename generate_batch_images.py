@@ -213,6 +213,10 @@ def main():
     if stats["failed"] > 0:
         print(f"\n⚠ {stats['failed']} image(s) failed. Re-run the script to retry — existing images are skipped.")
 
+    if stats["success"] == 0 and (stats["failed"] > 0):
+        print("ERROR: All image generations failed. Exiting with error code.")
+        sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
