@@ -12,8 +12,6 @@ on:
   push:
     branches:
       - "claude/facebook-ads-creative-system-pVJG0"
-    paths:
-      - "output/**/image-prompt.json"
 
 jobs:
   generate-images:
