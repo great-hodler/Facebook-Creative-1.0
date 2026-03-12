@@ -1,11 +1,13 @@
 # Environment variables — API keys, never commit
 .env
 
-# Generated images — large binaries, track via output folder structure
+# Generated images — ignored globally, but tracked inside output/ folders
 *.png
 *.jpg
 *.jpeg
 *.webp
+!output/**/*.jpg
+!output/**/*.png
 
 # macOS system files
 .DS_Store
