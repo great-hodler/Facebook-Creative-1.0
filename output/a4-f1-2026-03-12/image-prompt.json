@@ -1,0 +1,17 @@
+{
+  "creative_id": "a4-f1-2026-03-12",
+  "prompt_1x1": {
+    "prompt": "Premium business editorial photography. Clean professional setting. Upscale spa or studio context. Bold demographic call-out text as primary visual element. Sophisticated high-contrast business-focused. Square format. Background: upscale spa reception or consultation area clean lines marble surfaces neutral palette. Large bold white headline text in upper third on semi-transparent dark overlay: Spa Owners: oversized dominant. Below the call-out: 3 gold bullet lines Add a $180 service your team delivers hands-only, Zero equipment investment, 3 international certificates your competitors dont hold. Center: professional female spa manager in business-casual attire reviewing a tablet confident. Bottom strip in charcoal: Face Sculptor Academy 2.0 One Method $67 84% OFF. High-end business editorial look. Confident. Direct. No clutter.",
+    "aspect_ratio": "1:1",
+    "num_images": 1,
+    "resolution": "1K",
+    "safety_tolerance": 4
+  },
+  "prompt_9x16": {
+    "prompt": "Premium business editorial photography. Clean professional setting. Upscale spa or studio context. Bold demographic call-out text as primary visual element. Sophisticated high-contrast business-focused. Tall vertical format. Top band: dark charcoal with large white display text Spa Owners. full width. Upper center: upscale spa corridor or reception photo editorial lighting professional spa manager visible. Middle section on semi-transparent dark panel: 4-line copy Your competitors offer the same menu. / Add a certified Osteo-Lift service at $180. / Hands-only. Zero equipment investment. / 3 international certificates they dont hold. Lower section: two stats in gold: 5000+ professionals certified and $67 one enrollment. Bottom strip: Face Sculptor Academy 2.0 Get Free Training 84% OFF. Premium. Confident. ROI-focused.",
+    "aspect_ratio": "9:16",
+    "num_images": 1,
+    "resolution": "1K",
+    "safety_tolerance": 4
+  }
+}

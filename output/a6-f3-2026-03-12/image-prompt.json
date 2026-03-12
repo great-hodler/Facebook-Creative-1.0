@@ -1,0 +1,17 @@
+{
+  "creative_id": "a6-f3-2026-03-12",
+  "prompt_1x1": {
+    "prompt": "iPhone 15 Pro camera POV. Raw UGC aesthetic. Authentic social media screenshot look. Comment thread or stories-reply layout. Real practitioner headshots diverse professional. Zero studio lighting. Looks genuinely user-generated NOT an ad. Instagram-style comment section layout on white background. 3 comment rows each with a circular profile photo of a female beauty professional diverse Asian Latina Black username in gray blue verified checkmark and short review text in black. Comment 1: @maya.aesthetics Was charging $40. Now I charge $180. 3 months after the course. Comment 2: @studio.zara I graduated last year and was so lost. This gave me a clear method and 3 real certificates. Comment 3: @lena.faceworks 5247 people completed this. I was skeptical. I enrolled on Friday had my first $180 client Monday. Below comments blue Facebook CTA button Find Out More. Small text at bottom Face Sculptor Academy 2.0 $67 84% OFF. Authentic organic no branded colors or ad frames.",
+    "aspect_ratio": "1:1",
+    "num_images": 1,
+    "resolution": "1K",
+    "safety_tolerance": 4
+  },
+  "prompt_9x16": {
+    "prompt": "iPhone 15 Pro camera POV. Raw UGC aesthetic. Authentic social media screenshot look. Comment thread or stories-reply layout. Real practitioner headshots diverse professional. Zero studio lighting. Looks genuinely user-generated NOT an ad. Vertical smartphone screen mockup. Top: Instagram Stories reply thread look 4 swipe-up replies from real practitioners. Each reply has a small circular avatar name and short text. Reply 1 Maria smiling esthetician: I started at $40. After this course I charge $180. No joke. Reply 2 Sara professional headshot: Fresh grad here. The 3 certificates made clients trust me immediately. Reply 3 Ana studio background: 5000+ people trained. The community alone is worth it. Reply 4 Jen natural light: Did it in a weekend. First session after = $180. Below: bold caption overlay 5247 practitioners worldwide. Weekend course. 3 international certificates. $67. CTA button Find Out More. Authentic stories aesthetic no studio polish.",
+    "aspect_ratio": "9:16",
+    "num_images": 1,
+    "resolution": "1K",
+    "safety_tolerance": 4
+  }
+}

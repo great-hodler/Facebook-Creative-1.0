@@ -1,0 +1,17 @@
+{
+  "creative_id": "a7-f2-2026-03-12",
+  "prompt_1x1": {
+    "prompt": "Bold typographic command poster. Two-column layout: left dark red with STOP heading right deep gold with START heading. Clean sans-serif typography only. Minimal iconography. No photography. High contrast. Statement design. Square format split vertically into two equal columns. Left column: deep crimson red background. Large white STOP heading at top. Four white bullet lines below with red X icons: RF machines at $300 per month, Protocols built around equipment, Charging $50 per session, Device dependency. Right column: deep warm gold background. Large dark START heading at top. Four dark bullet lines with gold checkmarks: Working at the SMAS layer, Charging $180 per session, Zero overhead. Zero maintenance., Results lasting 3-6 months. Center dividing line: thin white vertical bar. Bottom strip across both columns in charcoal: Face Sculptor Academy 2.0 Osteo-Lift $67 84% OFF. Bold. Decisive. No decorative elements.",
+    "aspect_ratio": "1:1",
+    "num_images": 1,
+    "resolution": "1K",
+    "safety_tolerance": 4
+  },
+  "prompt_9x16": {
+    "prompt": "Bold typographic command poster. Two-column layout: left dark red with STOP heading right deep gold with START heading. Clean sans-serif typography only. Minimal iconography. No photography. High contrast. Statement design. Tall vertical format. Top section: charcoal background white bold headline Stop paying for machines that depreciate. Start owning a skill that compounds. Center: two-column grid left side dark red heading STOP in large white caps 4 red-X items listed in white. Right side deep gold heading START in large dark caps 4 gold-check items listed in dark. Both columns equal height in middle of the frame. Bottom section: charcoal background. Three-line summary: 5000+ practitioners made this switch / Osteo-Lift hands-only zero equipment / Face Sculptor Academy 2.0. Final row: Learn the Method $67 84% OFF. Clean. Commanding. Typographic.",
+    "aspect_ratio": "9:16",
+    "num_images": 1,
+    "resolution": "1K",
+    "safety_tolerance": 4
+  }
+}

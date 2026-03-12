@@ -32,7 +32,7 @@ Start here — these are high-signal combinations based on angle-format-persona 
 - [ ] A1 × F1 × P1 | Demographic Call-Out | Skill-Upgrader
 - [✓] A1 × F1 × P2 | Demographic Call-Out | Burnt-Out Solo Pro
 - [ ] A1 × F4 × P2 | Process Checklist | Burnt-Out Solo Pro
-- [ ] A1 × F6 × P2 | Direct Offer / Price Anchor | Burnt-Out Solo Pro
+- [✓] A1 × F6 × P2 | Direct Offer / Price Anchor | Burnt-Out Solo Pro
 - [✓] A1 × F8 × P2 | Booking Notification | Burnt-Out Solo Pro ← start here
 - [✓] A1 × F5 × P2 | Split-Screen Comparison | Burnt-Out Solo Pro
 - [ ] A1 × F9 × P4 | Bold Typography | Business Owner
@@ -45,7 +45,7 @@ Start here — these are high-signal combinations based on angle-format-persona 
 *Core Promise: Give clients visible, lasting outcomes without injections*
 
 - [✓] A2 × F5 × P1 | Split-Screen Comparison | Skill-Upgrader ← start here
-- [ ] A2 × F7 × P1 | Anatomical / Scientific | Skill-Upgrader
+- [✓] A2 × F7 × P1 | Anatomical / Scientific | Skill-Upgrader
 - [ ] A2 × F4 × P1 | Process Checklist | Skill-Upgrader
 - [ ] A2 × F1 × P1 | Demographic Call-Out | Skill-Upgrader
 - [ ] A2 × F9 × P2 | Bold Typography | Burnt-Out Solo Pro
@@ -68,9 +68,9 @@ Start here — these are high-signal combinations based on angle-format-persona 
 *Core Promise: Master a cutting-edge, hands-only technique*
 
 - [✓] A4 × F9 × P4 | Bold Typography | Business Owner ← start here
-- [ ] A4 × F4 × P1 | Process Checklist | Skill-Upgrader
+- [✓] A4 × F4 × P1 | Process Checklist | Skill-Upgrader
 - [ ] A4 × F6 × P4 | Direct Offer / Price Anchor | Business Owner
-- [ ] A4 × F1 × P4 | Demographic Call-Out | Business Owner
+- [✓] A4 × F1 × P4 | Demographic Call-Out | Business Owner
 - [ ] A4 × F3 × P1 | Native Social UI | Skill-Upgrader
 
 ---
@@ -79,7 +79,7 @@ Start here — these are high-signal combinations based on angle-format-persona 
 
 *Core Promise: Show exactly what's possible for your clients' faces*
 
-- [ ] A5 × F5 × P1 | Split-Screen Comparison | Skill-Upgrader
+- [✓] A5 × F5 × P1 | Split-Screen Comparison | Skill-Upgrader
 - [✓] A5 × F4 × P2 | Process Checklist | Burnt-Out Solo Pro
 - [ ] A5 × F7 × P1 | Anatomical / Scientific | Skill-Upgrader
 - [ ] A5 × F1 × P2 | Demographic Call-Out | Burnt-Out Solo Pro
@@ -91,7 +91,7 @@ Start here — these are high-signal combinations based on angle-format-persona 
 *Core Promise: Hear from beauty pros who leveled up their careers*
 
 - [✓] A6 × F4 × P5 | Process Checklist | Fresh Graduate ← start here
-- [ ] A6 × F3 × P5 | Native Social UI | Fresh Graduate
+- [✓] A6 × F3 × P5 | Native Social UI | Fresh Graduate
 - [ ] A6 × F1 × P5 | Demographic Call-Out | Fresh Graduate
 - [ ] A6 × F6 × P2 | Direct Offer / Price Anchor | Burnt-Out Solo Pro
 - [ ] A6 × F9 × P1 | Bold Typography | Skill-Upgrader
@@ -102,9 +102,10 @@ Start here — these are high-signal combinations based on angle-format-persona 
 
 *Core Promise: The industry is shifting. Don't get left behind.*
 
-- [ ] A7 × F6 × P2 | Direct Offer / Price Anchor | Burnt-Out Solo Pro
+- [✓] A7 × F6 × P2 | Direct Offer / Price Anchor | Burnt-Out Solo Pro
 - [ ] A7 × F9 × P1 | Bold Typography | Skill-Upgrader
 - [ ] A7 × F2 × P1 | Stop/Start Command | Skill-Upgrader
+- [✓] A7 × F2 × P3 | Stop/Start Command | The Switcher
 - [ ] A7 × F8 × P4 | Booking Notification | Business Owner
 
 ---
@@ -116,8 +117,8 @@ Start here — these are high-signal combinations based on angle-format-persona 
 - [✓] A8 × F2 × P3 | Stop/Start Command | The Switcher ← start here
 - [✓] A8 × F5 × P3 | Split-Screen Comparison | The Switcher
 - [ ] A8 × F1 × P3 | Demographic Call-Out | The Switcher
-- [ ] A8 × F9 × P2 | Bold Typography | Burnt-Out Solo Pro
-- [ ] A8 × F3 × P3 | Native Social UI | The Switcher
+- [✓] A8 × F9 × P2 | Bold Typography | Burnt-Out Solo Pro
+- [✓] A8 × F3 × P3 | Native Social UI | The Switcher
 
 ---
 
@@ -136,3 +137,13 @@ Start here — these are high-signal combinations based on angle-format-persona 
 | 2026-03-12 | a1-f1-2026-03-12 | A1 | F1 | P2 | ✓ done | Batch 2026-03-12-01 |
 | 2026-03-12 | a5-f4-2026-03-12 | A5 | F4 | P2 | ✓ done | Batch 2026-03-12-01 |
 | 2026-03-12 | a3-f6-2026-03-12 | A3 | F6 | P4 | ✓ done | Batch 2026-03-12-01 |
+| 2026-03-12 | a7-f6-2026-03-12 | A7 | F6 | P2 | ✓ done | Batch 2026-03-12-02 · BoF · Direct Punch |
+| 2026-03-12 | a2-f7-2026-03-12 | A2 | F7 | P1 | ✓ done | Batch 2026-03-12-02 · ToF · Long Story |
+| 2026-03-12 | a6-f3-2026-03-12 | A6 | F3 | P5 | ✓ done | Batch 2026-03-12-02 · ToF · Direct Punch |
+| 2026-03-12 | a4-f4-2026-03-12 | A4 | F4 | P1 | ✓ done | Batch 2026-03-12-02 · ToF · Long Story |
+| 2026-03-12 | a5-f5-2026-03-12 | A5 | F5 | P1 | ✓ done | Batch 2026-03-12-02 · ToF · Long Story |
+| 2026-03-12 | a7-f2-2026-03-12 | A7 | F2 | P3 | ✓ done | Batch 2026-03-12-02 · MoF · Direct Punch |
+| 2026-03-12 | a8-f3-2026-03-12 | A8 | F3 | P3 | ✓ done | Batch 2026-03-12-02 · ToF · Direct Punch |
+| 2026-03-12 | a1-f6-2026-03-12 | A1 | F6 | P2 | ✓ done | Batch 2026-03-12-02 · BoF · Direct Punch |
+| 2026-03-12 | a4-f1-2026-03-12 | A4 | F1 | P4 | ✓ done | Batch 2026-03-12-02 · MoF · Direct Punch |
+| 2026-03-12 | a8-f9-2026-03-12 | A8 | F9 | P2 | ✓ done | Batch 2026-03-12-02 · MoF · Direct Punch |
