@@ -1,0 +1,15 @@
+# Environment variables — API keys, never commit
+.env
+
+# Generated images — large binaries, track via output folder structure
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# macOS system files
+.DS_Store
+
+# Editor temp files
+*.swp
+*.swo

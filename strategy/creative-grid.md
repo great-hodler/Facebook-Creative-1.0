@@ -8,7 +8,8 @@
 - `[★]` = winner (strong performance)
 - `[✗]` = loser (weak performance)
 
-**How to use:** Check the box next to the combo you want to produce, then run `/marketer [Angle ID] [Persona ID]` to start.
+**How to use (batch):** Run `/batch` — Claude auto-selects 10 combos and runs the full pipeline autonomously.
+**How to use (manual):** Check the box next to a combo, then run `/marketer [Angle ID] [Persona ID]` to start.
 
 ---
 
@@ -16,7 +17,7 @@
 
 Start here — these are high-signal combinations based on angle-format-persona alignment:
 
-- [x] **A1 × F8 × P2** | Get Fully Booked | Booking/Payment Notification | Burnt-Out Solo Pro
+- [ ] **A1 × F8 × P2** | Get Fully Booked | Booking/Payment Notification | Burnt-Out Solo Pro
 - [ ] **A8 × F2 × P3** | Pain Point | Stop/Start Command | The Switcher
 - [ ] **A2 × F5 × P1** | Better Results | Split-Screen Comparison | Skill-Upgrader
 - [ ] **A6 × F4 × P5** | Social Proof | Process Checklist | Fresh Graduate
@@ -33,6 +34,7 @@ Start here — these are high-signal combinations based on angle-format-persona 
 - [ ] A1 × F4 × P2 | Process Checklist | Burnt-Out Solo Pro
 - [ ] A1 × F6 × P2 | Direct Offer / Price Anchor | Burnt-Out Solo Pro
 - [ ] A1 × F8 × P2 | Booking Notification | Burnt-Out Solo Pro ← start here
+- [✓] A1 × F5 × P2 | Split-Screen Comparison | Burnt-Out Solo Pro
 - [ ] A1 × F9 × P4 | Bold Typography | Business Owner
 - [ ] A1 × F3 × P2 | Native Social UI | Burnt-Out Solo Pro
 
@@ -123,4 +125,4 @@ Start here — these are high-signal combinations based on angle-format-persona 
 
 | Date | Creative ID | Angle | Format | Persona | Status | Notes |
 |------|------------|-------|--------|---------|--------|-------|
-| — | — | — | — | — | — | First production run pending |
+| 2026-03-11 | a1-f5-2026-03-11 | A1 | F5 | P2 | ✓ done | First creative — manual run |
